@@ -2,7 +2,7 @@
 
 This notebook clusters cryptocurrencies by their performance in different time periods. We will plot the results so that we can visually show the performance to the board. This proposed idea will not only depend on returns and volatility, rather factors that might impact the crypto market—leading to better performance for your portfolio.
 
-![](Images/bokeh_plot.png)
+![](Images/Elbow_Curve.png)
 
 ---
 
